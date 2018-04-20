@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--value-v21目录只有在Android 5.0 及以上系统才可以被读取-->
+<resources>
+
+    <style name="FruitActivityTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>
